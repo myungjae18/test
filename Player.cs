@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    /// 추가합니다
     /// <summary>
     /// 이동타입
     /// </summary>
